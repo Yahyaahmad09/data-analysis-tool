@@ -1586,6 +1586,8 @@ def main():
 
     else:
         # Show tabs
+        st.success(f"✅ **Loaded {len(st.session_state.selected_files)} file(s) - scroll down to see analysis tabs**")
+        
         tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
             "📊 Overview", "🔍 Inspect", "📈 Analysis",
             "🎨 Visualize", "📄 Report", "⬇️ Export"
