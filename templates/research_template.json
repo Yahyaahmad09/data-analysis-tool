@@ -1,0 +1,31 @@
+{
+  "name": "Research Data",
+  "description": "Statistical analysis for research data",
+  "icon": "🔬",
+  "version": "1.1.0",
+  "auto_detect_keywords": ["subject", "group", "treatment", "outcome", "score", "result"],
+  "required_columns": ["variable"],
+  "settings": {
+    "color_palette": "Plasma",
+    "chart_height": 600,
+    "default_statistics": ["basic", "hypothesis", "correlation", "normality"],
+    "default_charts": ["distribution", "box", "violin", "pair", "scatter"]
+  },
+  "analysis_steps": [
+    "Validate data structure",
+    "Check assumptions (normality, homogeneity)",
+    "Perform descriptive statistics",
+    "Conduct hypothesis tests",
+    "Calculate effect sizes",
+    "Test for correlations",
+    "Visualize distributions"
+  ],
+  "key_metrics": [
+    "Sample Size",
+    "Mean Difference",
+    "P-value",
+    "Effect Size",
+    "Confidence Intervals",
+    "Power Analysis"
+  ]
+}

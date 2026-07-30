@@ -1,0 +1,32 @@
+{
+  "name": "Time-Series (IoT/Sensors)",
+  "description": "IoT sensor data and time-series forecasting",
+  "icon": "📡",
+  "version": "1.1.0",
+  "auto_detect_keywords": ["sensor", "temperature", "reading", "timestamp", "iot"],
+  "required_columns": ["timestamp", "value"],
+  "settings": {
+    "color_palette": "Cool",
+    "chart_height": 600,
+    "default_statistics": ["basic", "forecasting", "anomaly"],
+    "default_charts": ["time_series", "seasonal", "forecast", "area"]
+  },
+  "analysis_steps": [
+    "Parse timestamp data",
+    "Resample to regular intervals",
+    "Handle missing sensor readings",
+    "Detect seasonal patterns",
+    "Identify anomalies and spikes",
+    "Forecast future readings",
+    "Generate alerts"
+  ],
+  "key_metrics": [
+    "Mean Reading",
+    "Std Deviation",
+    "Min/Max Values",
+    "Trend Component",
+    "Seasonal Component",
+    "Anomalies Detected",
+    "Forecast Accuracy"
+  ]
+}

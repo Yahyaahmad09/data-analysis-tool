@@ -1,0 +1,31 @@
+{
+  "name": "Sales Analysis",
+  "description": "Comprehensive sales and revenue analysis",
+  "icon": "💰",
+  "version": "1.1.0",
+  "auto_detect_keywords": ["sales", "revenue", "amount", "price", "order", "customer", "product"],
+  "required_columns": ["date", "amount"],
+  "settings": {
+    "color_palette": "Viridis",
+    "chart_height": 600,
+    "default_statistics": ["basic", "correlation", "forecasting"],
+    "default_charts": ["time_series", "bar", "pie", "treemap"]
+  },
+  "analysis_steps": [
+    "Load and validate data",
+    "Identify date range and time period",
+    "Calculate total revenue, average order value",
+    "Analyze trends over time",
+    "Compare regions and categories",
+    "Identify top performers",
+    "Forecast future sales"
+  ],
+  "key_metrics": [
+    "Total Revenue",
+    "Average Order Value",
+    "Total Orders",
+    "Revenue Growth Rate",
+    "Top Region",
+    "Top Category"
+  ]
+}

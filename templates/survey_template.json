@@ -1,0 +1,31 @@
+{
+  "name": "Customer/Survey Data",
+  "description": "Survey response and customer feedback analysis",
+  "icon": "📋",
+  "version": "1.1.0",
+  "auto_detect_keywords": ["response", "rating", "satisfaction", "feedback", "question"],
+  "required_columns": ["response"],
+  "settings": {
+    "color_palette": "Warm",
+    "chart_height": 600,
+    "default_statistics": ["basic", "correlation", "categorical"],
+    "default_charts": ["bar", "pie", "cross_tab", "treemap", "sunburst"]
+  },
+  "analysis_steps": [
+    "Load survey responses",
+    "Calculate response distributions",
+    "Analyze rating distributions",
+    "Cross-tabulate demographics",
+    "Calculate satisfaction scores",
+    "Identify key drivers",
+    "Generate insights"
+  ],
+  "key_metrics": [
+    "Response Rate",
+    "Average Rating",
+    "NPS Score",
+    "Top Issues",
+    "Demographic Breakdown",
+    "Satisfaction Drivers"
+  ]
+}

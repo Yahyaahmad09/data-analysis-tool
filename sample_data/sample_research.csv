@@ -1,0 +1,501 @@
+subject_id,group,age,score_before,score_after,satisfaction,gender
+1,Treatment B,45,86.1,107.1,5,M
+2,Control,64,73.28,72.02,2,M
+3,Treatment A,40,57.65,81.71,4,F
+4,Control,31,69.45,73.52,1,F
+5,Control,33,41.36,59.69,4,F
+6,Treatment A,43,80.33,87.78,7,M
+7,Control,31,72.91,80.36,3,M
+8,Control,45,67.13,86.88,10,M
+9,Control,32,81.29,92.55,8,M
+10,Treatment A,55,70.56,78.56,6,M
+11,Treatment B,55,79.1,68.57,6,M
+12,Treatment A,31,84.43,77.38,1,F
+13,Treatment A,34,61.76,70.43,5,M
+14,Treatment A,34,57.47,74.21,3,F
+15,Control,34,44.16,50.19,10,F
+16,Treatment B,23,71.84,72.11,1,F
+17,Treatment A,21,76.78,67.07,8,M
+18,Treatment A,49,50.15,48.88,7,M
+19,Treatment B,48,91.31,97.35,7,F
+20,Treatment B,47,57.66,55.81,10,M
+21,Treatment B,34,38.45,35.73,10,M
+22,Control,57,92.42,97.01,10,F
+23,Treatment B,34,40.4,56.99,4,M
+24,Control,45,84.46,94.94,6,M
+25,Treatment A,18,80.82,88.1,9,M
+26,Control,32,74.79,81.3,3,M
+27,Treatment B,33,62.16,71.57,9,F
+28,Control,34,77.54,81.66,4,F
+29,Treatment B,19,85.73,87.44,5,M
+30,Control,43,55.21,66.12,7,M
+31,Treatment A,47,84.65,87.84,6,M
+32,Control,26,83.96,79.45,10,F
+33,Treatment A,21,74.4,90.94,8,M
+34,Treatment B,25,61.93,51.97,8,M
+35,Treatment A,40,84.03,101.18,8,F
+36,Treatment B,27,77.62,86.68,3,M
+37,Treatment B,33,54.76,52.01,10,F
+38,Treatment A,22,64.49,69.68,6,M
+39,Treatment A,58,82.29,83.85,7,F
+40,Control,35,71.72,83.18,9,M
+41,Control,48,86.29,97.59,10,M
+42,Treatment A,40,64.88,73.57,10,F
+43,Treatment A,34,55.0,65.97,4,F
+44,Treatment A,33,102.9,106.99,5,F
+45,Treatment A,26,44.79,63.88,8,F
+46,Treatment B,29,62.5,77.29,1,F
+47,Treatment A,22,74.2,75.38,6,M
+48,Treatment A,21,84.79,96.28,4,F
+49,Treatment A,60,79.7,90.49,5,F
+50,Treatment A,38,104.67,107.59,5,F
+51,Treatment B,52,68.24,70.53,2,F
+52,Control,25,56.91,71.62,8,M
+53,Control,19,66.7,71.59,2,M
+54,Control,23,65.2,72.28,4,M
+55,Control,29,68.98,85.18,5,M
+56,Control,35,55.26,80.53,1,M
+57,Treatment B,33,81.76,82.55,6,F
+58,Control,25,75.56,78.8,2,M
+59,Treatment B,36,51.04,56.63,5,M
+60,Treatment B,37,84.52,90.29,6,F
+61,Control,43,57.83,65.84,8,F
+62,Control,52,52.26,53.34,9,M
+63,Control,30,71.31,66.18,6,M
+64,Treatment A,49,43.63,62.66,5,F
+65,Treatment B,35,78.84,88.74,4,M
+66,Control,16,27.42,29.07,2,F
+67,Treatment A,56,54.56,63.06,2,F
+68,Treatment B,62,93.63,113.29,7,M
+69,Treatment A,42,59.7,58.4,5,M
+70,Treatment A,36,62.33,69.02,7,M
+71,Control,31,89.1,82.99,1,F
+72,Treatment B,29,58.11,62.16,1,F
+73,Treatment A,49,81.45,91.38,5,M
+74,Treatment B,34,87.61,83.7,2,M
+75,Control,55,77.18,80.68,8,M
+76,Treatment B,35,48.33,59.73,3,F
+77,Treatment A,30,60.94,70.65,1,F
+78,Treatment A,27,110.7,106.44,2,F
+79,Treatment B,26,62.64,70.63,10,M
+80,Treatment A,41,114.79,124.26,10,F
+81,Treatment A,19,95.63,101.5,7,F
+82,Treatment A,25,77.79,91.5,6,M
+83,Control,50,74.46,74.74,8,F
+84,Control,23,63.03,71.33,7,M
+85,Treatment A,45,68.67,64.34,10,F
+86,Treatment B,10,59.67,51.86,8,M
+87,Control,52,69.05,80.29,3,M
+88,Treatment B,19,49.57,54.73,6,F
+89,Treatment A,24,48.76,50.06,7,M
+90,Treatment A,43,89.52,85.99,10,F
+91,Treatment B,38,45.82,57.43,1,M
+92,Control,45,83.29,76.23,1,M
+93,Treatment B,19,41.58,54.53,7,M
+94,Treatment B,31,79.44,88.05,3,F
+95,Treatment A,27,66.89,60.22,3,M
+96,Control,21,89.82,95.83,5,M
+97,Treatment B,42,65.02,91.25,6,F
+98,Control,46,39.86,54.37,2,M
+99,Treatment A,30,67.18,65.56,3,M
+100,Control,53,72.39,83.13,6,M
+101,Treatment A,25,68.02,61.69,3,M
+102,Control,52,78.63,72.66,5,F
+103,Treatment B,41,61.53,66.0,9,M
+104,Treatment A,20,51.05,60.46,3,M
+105,Treatment B,58,55.01,66.5,6,F
+106,Treatment A,29,62.26,73.86,5,M
+107,Control,49,62.13,71.09,5,M
+108,Control,36,106.09,98.18,6,F
+109,Treatment A,39,88.83,93.34,6,F
+110,Treatment A,45,80.3,93.05,1,F
+111,Treatment A,45,76.69,85.24,9,F
+112,Control,30,74.5,80.95,5,M
+113,Treatment A,41,74.58,82.21,1,F
+114,Treatment A,40,72.45,79.95,8,M
+115,Treatment B,37,70.6,59.88,7,F
+116,Treatment A,32,38.62,52.86,7,M
+117,Treatment B,37,64.46,68.58,5,F
+118,Treatment B,58,66.4,77.06,1,F
+119,Treatment B,31,58.77,45.32,9,M
+120,Control,49,61.66,79.95,9,F
+121,Treatment B,27,74.51,70.26,8,F
+122,Treatment A,24,81.51,106.84,5,F
+123,Control,74,74.49,96.44,3,M
+124,Control,41,81.14,75.54,8,F
+125,Control,41,81.4,92.94,1,F
+126,Control,42,65.5,62.37,3,M
+127,Control,51,77.88,77.76,7,M
+128,Control,39,43.8,43.87,4,F
+129,Control,44,64.24,72.82,7,M
+130,Treatment B,22,62.47,70.07,5,M
+131,Treatment A,46,92.97,88.36,6,M
+132,Treatment A,32,75.06,83.58,7,F
+133,Treatment B,43,49.98,53.35,10,F
+134,Treatment B,14,78.92,69.35,7,M
+135,Control,42,83.65,85.17,7,F
+136,Control,8,68.66,86.94,7,M
+137,Treatment B,31,80.35,82.15,7,F
+138,Control,14,32.56,22.88,3,M
+139,Treatment A,42,29.51,41.03,3,F
+140,Treatment A,35,52.32,49.9,7,M
+141,Control,25,72.24,78.95,2,F
+142,Control,52,92.98,96.61,2,F
+143,Control,24,53.1,72.2,3,M
+144,Treatment A,-1,57.19,60.82,4,F
+145,Control,41,71.33,67.17,6,F
+146,Treatment B,13,62.62,63.86,8,F
+147,Control,24,61.76,56.93,10,F
+148,Treatment B,28,63.68,67.0,10,F
+149,Control,17,89.72,108.88,7,F
+150,Control,29,86.74,101.73,4,F
+151,Treatment A,18,70.35,91.68,2,F
+152,Treatment B,36,94.82,103.65,2,M
+153,Treatment B,20,77.64,83.78,4,F
+154,Treatment B,35,87.31,84.32,6,M
+155,Treatment A,48,57.09,64.25,3,F
+156,Treatment B,44,60.19,64.15,6,M
+157,Treatment A,34,60.03,71.26,5,F
+158,Control,23,68.7,64.72,5,M
+159,Control,36,70.9,76.32,2,M
+160,Treatment B,26,74.86,67.27,8,F
+161,Control,37,99.6,107.3,5,M
+162,Control,14,80.82,91.23,2,F
+163,Treatment B,44,62.28,54.31,7,F
+164,Control,35,69.95,64.23,9,M
+165,Treatment B,61,92.57,87.21,9,F
+166,Treatment B,50,81.73,85.31,1,M
+167,Control,41,92.38,86.2,7,M
+168,Control,33,62.76,78.79,9,F
+169,Control,26,59.33,67.81,6,F
+170,Control,46,59.54,69.34,1,F
+171,Control,32,63.97,56.26,2,F
+172,Treatment A,49,54.05,69.4,4,F
+173,Control,39,74.43,84.62,4,M
+174,Treatment A,39,74.69,74.23,2,M
+175,Treatment B,42,90.08,82.75,8,F
+176,Control,23,43.6,47.99,2,F
+177,Control,22,55.84,57.11,3,F
+178,Control,22,82.08,83.68,4,M
+179,Treatment B,47,72.75,72.11,9,M
+180,Treatment A,23,70.67,81.44,10,M
+181,Treatment A,25,88.96,73.15,1,F
+182,Control,41,54.85,71.29,8,F
+183,Control,31,59.07,72.05,5,M
+184,Control,30,57.3,63.99,7,F
+185,Control,29,39.81,43.65,8,F
+186,Treatment B,7,71.99,85.66,5,M
+187,Control,23,62.16,66.82,8,M
+188,Treatment B,49,59.01,61.78,10,F
+189,Control,28,56.3,70.41,8,M
+190,Treatment A,12,69.73,91.48,9,F
+191,Treatment A,22,58.02,55.25,2,M
+192,Control,39,73.32,81.72,3,M
+193,Control,39,76.89,73.2,1,F
+194,Treatment B,31,65.58,74.59,4,F
+195,Control,26,64.56,63.34,5,M
+196,Control,18,72.78,87.47,1,F
+197,Control,39,69.57,73.77,8,M
+198,Treatment A,45,89.95,95.32,2,F
+199,Treatment B,50,74.77,92.82,1,M
+200,Treatment A,21,86.43,85.57,2,M
+201,Treatment B,51,79.16,89.64,5,M
+202,Treatment A,34,50.22,50.16,9,F
+203,Control,35,61.63,76.2,9,M
+204,Treatment A,45,69.28,88.57,2,M
+205,Treatment A,28,83.03,85.92,2,M
+206,Treatment B,9,98.92,86.36,3,M
+207,Treatment B,43,62.74,62.23,7,F
+208,Treatment A,39,70.83,95.29,3,F
+209,Treatment B,30,82.0,82.26,1,M
+210,Treatment B,42,69.13,88.3,6,M
+211,Treatment B,44,94.66,94.81,3,F
+212,Treatment B,16,49.78,49.74,1,M
+213,Treatment B,35,80.17,91.4,4,F
+214,Treatment A,7,80.02,90.3,1,M
+215,Treatment B,33,87.28,99.1,1,F
+216,Control,30,70.93,75.97,2,M
+217,Treatment A,40,83.37,96.65,10,F
+218,Treatment A,22,66.26,78.95,8,F
+219,Treatment A,29,57.98,72.17,2,F
+220,Treatment B,-3,55.79,55.8,2,M
+221,Control,41,48.38,61.65,10,F
+222,Treatment B,33,63.38,64.21,10,F
+223,Treatment A,36,74.67,78.42,8,M
+224,Treatment A,17,66.88,70.46,6,M
+225,Treatment A,39,72.97,69.98,4,M
+226,Treatment A,54,88.52,79.64,3,M
+227,Treatment B,32,62.24,77.03,1,F
+228,Control,42,105.1,104.49,3,M
+229,Control,24,81.33,84.17,9,M
+230,Treatment A,34,67.05,66.2,5,M
+231,Control,16,66.71,69.65,6,M
+232,Treatment A,44,54.88,55.83,5,M
+233,Treatment A,36,69.61,84.85,1,M
+234,Control,20,37.58,37.85,10,M
+235,Treatment A,25,88.84,107.55,1,F
+236,Control,35,27.75,41.87,4,F
+237,Treatment A,46,70.63,71.83,3,F
+238,Control,52,52.84,60.4,8,F
+239,Treatment A,33,59.48,68.64,7,F
+240,Control,18,61.42,73.15,7,M
+241,Treatment A,37,98.88,111.41,8,M
+242,Treatment A,56,53.45,59.94,10,M
+243,Treatment A,15,83.71,81.08,7,M
+244,Control,23,87.41,97.53,10,F
+245,Treatment B,42,34.92,38.03,2,F
+246,Treatment A,36,60.77,43.46,4,M
+247,Treatment A,28,92.27,100.39,6,M
+248,Control,37,50.28,49.41,3,F
+249,Treatment A,46,87.97,89.31,3,F
+250,Treatment A,33,69.73,74.78,6,F
+251,Treatment A,32,69.08,61.65,1,M
+252,Treatment A,42,71.04,77.15,1,M
+253,Treatment B,31,75.14,77.6,5,F
+254,Treatment B,48,55.67,53.65,1,F
+255,Treatment A,59,66.09,71.46,10,M
+256,Treatment A,24,75.56,67.04,8,M
+257,Treatment A,19,72.65,78.26,2,M
+258,Treatment B,39,75.24,84.0,6,M
+259,Treatment B,19,59.22,66.66,10,F
+260,Control,19,79.48,90.8,10,F
+261,Control,10,71.9,86.22,5,F
+262,Treatment A,30,46.29,50.64,10,M
+263,Treatment A,34,62.03,75.79,4,M
+264,Treatment B,28,56.57,60.89,1,M
+265,Treatment A,51,56.37,55.78,3,F
+266,Treatment A,50,62.85,64.71,4,F
+267,Treatment B,58,79.2,86.34,2,F
+268,Treatment B,35,60.6,74.28,2,M
+269,Treatment B,49,73.38,78.39,2,M
+270,Treatment B,38,70.92,70.53,1,F
+271,Control,37,58.31,74.87,10,M
+272,Treatment B,29,64.83,58.35,2,F
+273,Treatment B,7,82.97,82.64,6,F
+274,Treatment A,42,72.25,84.39,3,F
+275,Treatment A,48,78.23,97.36,10,F
+276,Treatment A,16,89.09,97.93,5,M
+277,Control,34,76.52,83.52,1,M
+278,Treatment B,46,41.19,43.86,8,M
+279,Treatment B,30,74.06,83.44,4,M
+280,Control,49,60.73,66.76,9,M
+281,Treatment B,33,97.15,96.12,4,M
+282,Treatment A,28,75.99,78.52,2,F
+283,Control,50,61.04,59.1,3,M
+284,Treatment B,23,78.5,83.61,5,M
+285,Control,26,71.36,77.66,10,M
+286,Control,24,44.23,62.31,6,F
+287,Treatment B,21,82.95,83.17,7,M
+288,Treatment A,36,63.92,67.47,4,F
+289,Treatment B,28,91.31,106.38,7,M
+290,Treatment B,40,68.13,87.57,10,M
+291,Treatment A,14,91.59,100.39,3,M
+292,Treatment B,21,76.37,79.34,7,F
+293,Treatment B,35,84.61,85.83,4,F
+294,Treatment B,52,62.62,52.88,8,M
+295,Control,39,75.3,72.87,9,M
+296,Control,27,44.11,49.92,7,M
+297,Control,17,68.09,71.65,8,F
+298,Treatment B,27,47.73,57.72,8,F
+299,Treatment A,34,52.86,56.29,2,M
+300,Control,6,56.64,55.83,9,F
+301,Treatment A,20,79.91,87.64,6,F
+302,Treatment B,26,67.79,92.83,4,F
+303,Control,31,70.47,72.93,5,F
+304,Treatment B,34,67.38,73.49,10,M
+305,Treatment A,27,86.21,97.99,5,M
+306,Control,41,70.06,70.49,7,F
+307,Control,36,73.73,88.91,9,F
+308,Control,30,61.45,53.81,7,F
+309,Control,42,87.24,88.98,9,M
+310,Treatment A,41,88.37,90.88,4,M
+311,Control,17,69.45,75.66,10,F
+312,Treatment B,34,61.24,50.46,10,F
+313,Control,45,45.76,61.58,4,F
+314,Treatment A,47,56.97,65.28,6,F
+315,Control,39,37.49,51.48,8,M
+316,Treatment A,32,56.34,74.24,9,M
+317,Treatment A,40,75.35,74.43,1,M
+318,Treatment B,44,69.24,54.29,1,M
+319,Control,36,104.85,119.02,8,M
+320,Control,37,64.43,67.14,7,M
+321,Control,32,63.26,59.2,9,F
+322,Treatment B,18,85.94,95.55,3,F
+323,Treatment B,32,41.1,65.8,10,M
+324,Treatment A,26,47.77,51.9,5,M
+325,Treatment A,26,79.96,92.57,3,M
+326,Treatment A,52,67.07,64.17,5,F
+327,Treatment B,46,67.41,58.92,10,F
+328,Treatment B,14,55.94,68.25,1,F
+329,Treatment B,21,73.6,82.97,4,F
+330,Treatment A,30,57.88,59.15,6,M
+331,Treatment B,27,71.09,89.74,2,F
+332,Treatment A,38,52.62,43.51,7,M
+333,Treatment A,20,67.26,62.42,8,F
+334,Control,46,100.37,101.03,1,F
+335,Control,34,63.63,65.77,4,F
+336,Control,30,68.02,84.75,4,F
+337,Treatment A,34,66.96,72.36,5,M
+338,Control,29,72.62,76.07,4,M
+339,Control,10,77.02,71.86,9,M
+340,Control,35,73.86,87.55,7,M
+341,Treatment B,31,74.19,70.1,2,M
+342,Treatment A,23,67.29,62.09,1,M
+343,Control,48,71.5,73.3,9,M
+344,Treatment B,43,66.79,73.1,1,F
+345,Treatment B,64,42.81,42.05,6,M
+346,Treatment B,45,109.46,120.12,2,F
+347,Control,27,80.92,83.66,4,M
+348,Treatment B,24,55.31,68.73,6,F
+349,Treatment A,29,73.45,82.49,5,M
+350,Treatment B,27,49.81,69.14,6,F
+351,Treatment B,36,62.59,64.05,3,M
+352,Treatment B,16,47.77,59.52,5,M
+353,Treatment B,42,69.23,59.94,2,M
+354,Treatment A,36,46.28,74.41,7,M
+355,Control,41,75.83,87.18,3,F
+356,Treatment A,21,80.23,82.86,1,M
+357,Treatment A,37,57.6,60.52,8,M
+358,Control,50,72.41,75.44,8,F
+359,Treatment B,24,56.8,76.52,3,M
+360,Control,24,77.68,89.86,7,F
+361,Control,43,59.67,61.12,9,F
+362,Treatment A,23,81.83,76.92,8,M
+363,Control,32,42.83,57.39,3,M
+364,Treatment B,52,54.93,66.63,2,F
+365,Treatment A,24,53.37,64.02,10,M
+366,Treatment B,53,73.05,77.38,7,F
+367,Treatment A,30,78.33,80.93,7,M
+368,Treatment B,21,74.21,92.69,9,M
+369,Control,42,62.37,81.59,5,F
+370,Control,36,28.07,38.19,4,M
+371,Control,35,70.58,83.34,8,M
+372,Treatment B,25,81.82,88.71,4,M
+373,Treatment A,36,110.21,104.25,4,F
+374,Treatment A,10,63.63,60.8,2,M
+375,Treatment A,37,60.02,74.19,1,F
+376,Control,50,74.8,89.99,4,M
+377,Treatment B,13,66.16,79.59,7,F
+378,Treatment A,30,89.13,96.9,9,M
+379,Treatment B,24,57.88,71.61,9,M
+380,Treatment A,16,66.27,70.8,10,F
+381,Control,10,83.14,93.11,1,M
+382,Treatment B,20,74.63,77.99,5,F
+383,Treatment A,32,87.42,83.96,7,M
+384,Treatment A,48,63.45,75.37,7,F
+385,Treatment A,16,88.95,104.15,10,M
+386,Treatment A,38,45.04,69.83,6,F
+387,Control,37,45.64,52.76,10,M
+388,Treatment A,55,89.19,85.8,4,F
+389,Treatment A,41,70.11,72.48,3,F
+390,Control,42,83.81,87.73,9,M
+391,Treatment A,43,71.49,77.68,10,F
+392,Treatment B,23,69.89,78.66,4,F
+393,Treatment B,28,50.08,57.98,8,M
+394,Treatment A,48,69.6,80.81,1,M
+395,Control,10,90.42,97.0,7,M
+396,Control,26,70.85,58.05,6,M
+397,Control,19,80.23,87.05,1,M
+398,Treatment A,37,79.82,85.51,4,M
+399,Treatment A,29,54.81,64.21,5,F
+400,Treatment B,42,82.86,84.97,8,F
+401,Control,33,65.29,72.08,4,F
+402,Treatment A,16,66.11,75.56,3,M
+403,Treatment A,17,101.47,105.19,2,M
+404,Treatment A,34,78.96,89.37,4,F
+405,Control,25,60.42,65.98,10,F
+406,Control,28,70.97,77.22,4,M
+407,Treatment B,46,70.55,52.17,10,F
+408,Control,44,95.29,91.14,5,M
+409,Treatment A,56,70.59,66.46,7,M
+410,Treatment B,31,103.12,109.85,9,F
+411,Control,27,50.55,65.72,2,M
+412,Control,40,69.51,73.57,5,M
+413,Control,28,58.56,70.34,10,M
+414,Control,28,62.58,72.76,9,M
+415,Treatment A,32,62.9,69.02,3,F
+416,Control,54,59.33,68.92,1,M
+417,Treatment A,43,95.95,102.92,2,M
+418,Treatment A,44,91.34,95.2,6,F
+419,Treatment A,54,76.04,84.17,5,M
+420,Treatment B,45,62.88,79.46,1,M
+421,Treatment A,21,59.75,68.53,1,F
+422,Control,45,81.13,87.87,4,F
+423,Treatment B,47,74.5,72.48,4,M
+424,Control,42,67.83,84.15,6,M
+425,Treatment A,32,78.12,71.86,6,F
+426,Control,41,83.37,74.72,10,M
+427,Treatment B,34,67.69,75.66,6,M
+428,Treatment B,23,58.19,56.14,1,M
+429,Control,26,50.18,63.9,10,F
+430,Control,43,73.76,65.29,9,M
+431,Control,24,102.51,115.2,7,F
+432,Treatment B,25,53.34,64.91,7,F
+433,Treatment A,44,86.49,92.44,7,F
+434,Control,36,59.87,48.07,2,F
+435,Treatment A,41,62.89,54.1,2,M
+436,Treatment B,20,83.72,90.64,6,F
+437,Control,41,66.17,69.31,7,M
+438,Control,27,73.72,84.54,3,F
+439,Treatment B,22,73.44,77.89,4,F
+440,Control,28,59.89,63.65,3,M
+441,Treatment A,51,83.43,69.02,7,F
+442,Treatment B,30,69.08,80.66,7,F
+443,Treatment B,61,49.17,48.98,4,M
+444,Control,10,56.61,58.43,7,F
+445,Treatment B,16,23.25,19.69,5,F
+446,Control,50,70.78,63.46,1,F
+447,Control,53,89.56,106.34,10,M
+448,Treatment B,24,54.29,65.66,4,F
+449,Control,35,78.78,90.28,7,M
+450,Treatment A,43,76.46,79.73,2,M
+451,Treatment A,32,58.72,49.82,2,M
+452,Control,36,93.05,114.86,1,F
+453,Treatment A,35,65.91,74.29,2,F
+454,Control,17,100.15,106.25,10,F
+455,Treatment A,30,45.46,47.59,8,F
+456,Treatment B,35,65.96,54.61,8,M
+457,Control,36,67.75,81.88,8,M
+458,Control,14,69.39,65.93,1,F
+459,Control,44,80.74,90.12,1,F
+460,Control,36,120.97,132.14,10,M
+461,Control,22,76.83,84.5,4,F
+462,Control,56,70.36,79.12,6,F
+463,Treatment B,30,53.56,69.33,8,F
+464,Treatment B,31,41.65,40.31,2,F
+465,Treatment A,42,87.55,93.87,3,F
+466,Control,57,61.8,65.0,6,F
+467,Treatment A,43,109.06,99.35,10,M
+468,Treatment A,44,83.02,90.31,4,M
+469,Treatment B,22,75.12,90.13,2,M
+470,Treatment A,36,75.91,91.92,7,M
+471,Treatment B,28,76.06,95.92,4,F
+472,Treatment A,43,59.58,50.39,8,F
+473,Control,44,43.73,61.76,8,M
+474,Treatment A,54,61.74,68.22,7,M
+475,Treatment B,9,69.72,87.53,10,M
+476,Treatment B,27,60.28,62.12,9,M
+477,Treatment B,50,50.71,51.46,4,M
+478,Treatment A,18,58.78,54.05,7,F
+479,Treatment A,44,85.54,96.74,10,F
+480,Treatment B,48,81.22,90.34,10,M
+481,Control,34,72.57,68.64,1,M
+482,Control,17,78.81,66.49,4,F
+483,Treatment A,33,53.02,61.34,2,F
+484,Treatment A,52,58.07,67.3,9,F
+485,Treatment B,53,74.67,71.77,5,M
+486,Treatment A,37,54.93,50.43,3,F
+487,Treatment A,23,71.63,81.87,4,M
+488,Treatment B,55,51.06,70.91,6,M
+489,Treatment B,44,45.26,46.3,10,F
+490,Treatment A,24,81.04,79.0,1,F
+491,Control,39,85.41,92.8,7,F
+492,Treatment A,38,60.54,70.62,8,M
+493,Control,27,47.19,49.28,7,F
+494,Control,39,36.87,58.08,7,F
+495,Control,48,97.63,109.84,9,M
+496,Treatment B,31,71.67,73.62,4,F
+497,Treatment B,49,60.88,53.14,7,F
+498,Treatment B,13,64.54,80.1,9,M
+499,Treatment A,61,41.3,55.84,5,M
+500,Treatment B,35,79.3,81.88,2,M

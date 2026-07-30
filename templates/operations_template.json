@@ -1,0 +1,31 @@
+{
+  "name": "Operational Metrics",
+  "description": "KPIs, trends, and operational performance",
+  "icon": "📊",
+  "version": "1.1.0",
+  "auto_detect_keywords": ["metric", "kpi", "department", "performance", "target", "baseline"],
+  "required_columns": ["date", "metric"],
+  "settings": {
+    "color_palette": "Blues",
+    "chart_height": 600,
+    "default_statistics": ["basic", "anomaly", "forecasting"],
+    "default_charts": ["time_series", "anomaly", "bar", "line"]
+  },
+  "analysis_steps": [
+    "Load operational data",
+    "Calculate baseline metrics",
+    "Identify trends and patterns",
+    "Detect anomalies and outliers",
+    "Compare against targets",
+    "Forecast future performance",
+    "Generate alerts for anomalies"
+  ],
+  "key_metrics": [
+    "Current Value",
+    "Baseline",
+    "Variance from Target",
+    "Trend Direction",
+    "Anomaly Count",
+    "Forecast Next Period"
+  ]
+}
